@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyHello</string>
+    <string name="text">Changed from master</string>
+    <string name="btn">Click me</string>
 </resources>
