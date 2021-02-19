@@ -14,5 +14,6 @@
         android:text="@string/txt3"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
+        android:background="@color/teal_200"
          />
 </androidx.constraintlayout.widget.ConstraintLayout>
